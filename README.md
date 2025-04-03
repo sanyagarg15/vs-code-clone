@@ -1,4 +1,4 @@
-Creating a simplified VS Code frontend with essential features. Here's how you can break it down into a Minimal Viable Product (MVP)
+Creating a simplified VS Code frontend with essential features into a Minimal Viable Product (MVP)
 
 Tech Stack:
 
